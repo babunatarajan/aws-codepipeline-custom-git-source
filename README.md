@@ -1,5 +1,7 @@
 # aws-codepipeline-custom-git-source
 
+OS: Ubuntu 20.04.  
+
 The script will generate a SSH Private/Public key for AWS Secrets Manager and creates Secret for CodePipeLine.  
 
 CloudFormation Stack creates a S3 bucket and custom Git repo option under CodePipeLine Source.  
